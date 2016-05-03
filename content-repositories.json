@@ -2,5 +2,5 @@
   { "kind": "github", "project": "deconst/deconst-docs" },
   { "kind": "github", "project": "rackerlabs/docs-cloud-servers" },
   { "kind": "github", "project": "rackerlabs/docs-cloud-files" },
-  { "kind": "github", "project": "rackerlabs/docs-rpc", "branches": ["v10", "v11", "v12"] }
+  { "kind": "github", "project": "rackerlabs/docs-rpc", "branches": ["master", "v12"] }
 ]
